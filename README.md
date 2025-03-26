@@ -18,7 +18,7 @@ This project analyzes U.S. SEC Form 8-K filings using local large language model
 
 - `LLM_Doc_V2.ipynb`: Full implementation in Jupyter Notebook
 - `8k_product_releases.csv`: Structured CSV with extracted products
-- `report.md` (coming soon): Brief summary of methodology
+- `report.md`: Brief summary of methodology
 
 ## 🧠 Technologies Used
 
